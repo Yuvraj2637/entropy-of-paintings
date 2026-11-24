@@ -48,7 +48,7 @@ The analysis covers 500 paintings. [The CSV](results/spectral_entropy_results.cs
 - [Category spectra grid](results/category_spectra_grid_5panel.png)
 - [Single-scale category comparison](results/single_scale_category_comparison.png)
 
-The 484 available per-painting spectrum plots are in ZIP archives [01](results/painting-spectra-01.zip), [02](results/painting-spectra-02.zip), [03](results/painting-spectra-03.zip), [04](results/painting-spectra-04.zip), [05](results/painting-spectra-05.zip), [06](results/painting-spectra-06.zip), [07](results/painting-spectra-07.zip), [08](results/painting-spectra-08.zip), [09](results/painting-spectra-09.zip). Extract the archives into `results/` to restore the `results/plots/` folder.
+[Download the 484 per-painting spectrum plots](https://github.com/Yuvraj2637/entropy-of-paintings/releases/download/results-v1/painting-spectra.zip). Extract the ZIP into `results/` to restore `results/plots/`.
 
 The core spectral analysis is in [src/spectral_analysis.py](src/spectral_analysis.py). Place the source images under `data/images/` to reproduce the analysis. The input dataset and the course submission archives are distributed separately from these results.
 

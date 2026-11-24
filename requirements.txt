@@ -1,0 +1,12 @@
+# Hydrodynamic Entropy of Paintings Pipeline Dependencies
+# Group P09 (Yuvraj Singh Chaudhary & Adarsh Vardhan)
+# Based on Verma & Chatterjee (Phys. Rev. Fluids 7, 114608, 2022)
+
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+pillow>=9.5.0
+openpyxl>=3.1.0
+reportlab>=4.0.0
+requests>=2.31.0

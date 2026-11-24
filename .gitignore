@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+/data/images/
+/results/plots/
+/sample_paintings_with_plots/
+/*.zip

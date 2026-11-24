@@ -39,7 +39,7 @@ This eliminates canvas boundary and low-frequency framing artifacts ($k < 6$) as
 
 ## 3. Results
 
-[Read the IDC612 project report](idc612project_report.pdf).
+[Read the IDC612 project report](entropy-of-paintings-report.pdf).
 
 The analysis covers 500 paintings. [The CSV](results/spectral_entropy_results.csv) contains the per-painting metrics, and [the Excel workbook](results/spectral_entropy_results.xlsx) includes the data, summary, and ANOVA.
 
